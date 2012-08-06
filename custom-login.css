@@ -1,0 +1,4 @@
+#login{width:353px;}
+#login h1 a{width:353px;height:65px;background:url(imgs/login_logo.png) no-repeat;}
+input.button-primary,button.button-primary,a.button-primary{background:-moz-linear-gradient(0% 0% 270deg, #529D79,#045E31);background:-webkit-gradient(linear,0% 0%, 0% 100%, from(#529D79), to(#045E31));}
+input.button-primary:hover, button.button-primary:hover, a.button-primary:hover, a.button-primary:focus, a.button-primary:active{border-color:#060;}
